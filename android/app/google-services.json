@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "133143044169",
+    "firebase_url": "https://exerholic-e125d.firebaseio.com",
+    "project_id": "exerholic-e125d",
+    "storage_bucket": "exerholic-e125d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133143044169:android:bfc0a8519ffb07fe6adf98",
+        "android_client_info": {
+          "package_name": "com.exerholic.exerholic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133143044169-3rdn0m1btjmiscbn6rjjmj4hobb6v05n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIvufskLYiHYD35YmkNXk71C4UxH3GnfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133143044169-3rdn0m1btjmiscbn6rjjmj4hobb6v05n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
